@@ -1,0 +1,157 @@
+Protein Accession,Protein Gene,Protein Description,Peptide Modified Sequence,Average Measured Retention Time,Protein Name
+P90463,70,Thymidylate synthase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=70 PE=1 SV=1,DHFPLLTTK,37,70
+P90463,70,Thymidylate synthase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=70 PE=1 SV=1,EGDLGPVYGFQWR,53.23,70
+P90463,70,Thymidylate synthase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=70 PE=1 SV=1,SVSSMEEFTPDDFR,47.1,70
+Q2HRD3,DBP,Major DNA-binding protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=DBP PE=1 SV=1,EAIVFHNTHLFQPIFQGK,48.46,DBP
+Q2HRD3,DBP,Major DNA-binding protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=DBP PE=1 SV=1,LASMGISEGGDALR,38.41,DBP
+Q2HRD3,DBP,Major DNA-binding protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=DBP PE=1 SV=1,HVIMTPLVDR,34.99,DBP
+Q2HR78,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=DUT PE=3 SV=1,GEIQVILLNK,46.53,DUT
+Q2HR78,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=DUT PE=3 SV=1,GIVIDVSEWGPR,53.01,DUT
+Q2HR78,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=DUT PE=3 SV=1,IC[+57]QIVFVER,41.8,DUT
+F5HB81,gB,Envelope glycoprotein B OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gB PE=1 SV=1,LASSVFDLETMFR,63.47,gB
+F5HB81,gB,Envelope glycoprotein B OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gB PE=1 SV=1,NILLGMHQLQQEER,39.86,gB
+Q2HRC7,K2,Viral interleukin-6 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K2 PE=1 SV=1,LPDAPEFEK,35.06,K2
+Q2HRC7,K2,Viral interleukin-6 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K2 PE=1 SV=1,TLGWDIQEELNK,49.76,K2
+Q2HRC7,K2,Viral interleukin-6 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K2 PE=1 SV=1,HFASFYVLSAMEK,49.87,K2
+P90495,K3,E3 ubiquitin-protein ligase MIR1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K3 PE=1 SV=1,AYAAVNTR,18.78,K3
+P90495,K3,E3 ubiquitin-protein ligase MIR1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K3 PE=1 SV=1,DSEESVDEAAGYK,27.45,K3
+P90495,K3,E3 ubiquitin-protein ligase MIR1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K3 PE=1 SV=1,AGPSSLVDILPQGLPGGGYGSMGVIR,64.52,K3
+P90489,K5,E3 ubiquitin-protein ligase MIR2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K5 PE=1 SV=1,ALYAANNTR,20.45,K5
+P90489,K5,E3 ubiquitin-protein ligase MIR2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K5 PE=1 SV=1,VTVLPYR,33.57,K5
+P90489,K5,E3 ubiquitin-protein ligase MIR2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K5 PE=1 SV=1,DGSSGDEPDGGPNDR,16.98,K5
+Q2HR82,K8,E3 SUMO-protein ligase K-bZIP OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K8 PE=1 SV=1,GPHISQQLPTR,24.2,K8
+Q2HR82,K8,E3 SUMO-protein ligase K-bZIP OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K8 PE=1 SV=1,QLQQALEEK,24.55,K8
+Q2HR82,K8,E3 SUMO-protein ligase K-bZIP OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K8 PE=1 SV=1,EQIIFLR,44.66,K8
+F5HB98,K8.1,Protein K8.1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K8.1 PE=3 SV=1,VSPVAENGR,17.51,K8.1
+F5HB98,K8.1,Protein K8.1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K8.1 PE=3 SV=1,VPFSATTTTTR,27.97,K8.1
+F5HB98,K8.1,Protein K8.1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K8.1 PE=3 SV=1,DAHYNAEIR,20.57,K8.1
+Q2HRA7,MCP,Major capsid protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=MCP PE=3 SV=1,GLVDTVLAVK,49.3,MCP
+Q2HRA7,MCP,Major capsid protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=MCP PE=3 SV=1,HAPPVFILK,36.74,MCP
+Q2HRA7,MCP,Major capsid protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=MCP PE=3 SV=1,GVESPAIQSTETWVVNK,44.9,MCP
+F5H982,NEC1,Nuclear egress protein 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=NEC1 PE=1 SV=1,TVMLPLDLSTVAPGR,57.76,NEC1
+F5H982,NEC1,Nuclear egress protein 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=NEC1 PE=1 SV=1,QSFLQPGLLYANLVLK,66.25,NEC1
+F5H982,NEC1,Nuclear egress protein 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=NEC1 PE=1 SV=1,ALHLGETALR,30.45,NEC1
+F5HA27,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=NEC2 PE=1 SV=1,VVSSYLGQSGQSLDLER,43.32,NEC2
+F5HA27,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=NEC2 PE=1 SV=1,QVLQFLVVTPK,53.36,NEC2
+F5HA27,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=NEC2 PE=1 SV=1,AC[+57]TSDVTAVYWAGQGGR,41.62,NEC2
+Q2HRC9,ORF10,Protein ORF10 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF10 PE=4 SV=1,IVAPGVINNFSEPIGIWVR,64.74,ORF10
+Q2HRC9,ORF10,Protein ORF10 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF10 PE=4 SV=1,YLTFTQTGER,34.27,ORF10
+Q2HRC9,ORF10,Protein ORF10 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF10 PE=4 SV=1,FVSFPAVLLPGK,59.24,ORF10
+Q2HRC8,ORF11,Protein ORF11 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF11 PE=4 SV=1,GEPVWDSVIHPSHIVISNR,46.19,ORF11
+Q2HRC8,ORF11,Protein ORF11 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF11 PE=4 SV=1,AYPNFTFDNTHR,36.27,ORF11
+Q2HRC8,ORF11,Protein ORF11 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF11 PE=4 SV=1,ILPTVVESSSSVLIFR,59.18,ORF11
+Q2HRB6,ORF17,Capsid scaffolding protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF17 PE=1 SV=1,AIDASFIR,37.88,ORF17
+Q2HRB6,ORF17,Capsid scaffolding protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF17 PE=1 SV=1,NPYDPWYYSPQLPGYR,55.37,ORF17
+Q2HRB6,ORF17,Capsid scaffolding protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF17 PE=1 SV=1,GAEDDEGHLFPGEEPAYHK,32.65,ORF17
+F5HHY1,ORF38,Cytoplasmic envelopment protein 3 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF38 PE=3 SV=1,GMLLEQSQSPYPALK,46.21,ORF38
+Q2HRD4,ORF4,Complement control protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF4 PE=3 SV=1,VIFHGGQDALK,27.69,ORF4
+Q2HRD4,ORF4,Complement control protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF4 PE=3 SV=1,FPSVTHGYPIQGFSLTYK,50.51,ORF4
+Q2HRD4,ORF4,Complement control protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF4 PE=3 SV=1,C[+57]VLEDIDDPNNSNPGR,37.62,ORF4
+F5HDE4,ORF45,Protein ORF45 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF45 PE=1 SV=1,MLPIEGAPR,35.25,ORF45
+F5HDE4,ORF45,Protein ORF45 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF45 PE=1 SV=1,AHTPKPVAVVAGR,19.96,ORF45
+F5HDE4,ORF45,Protein ORF45 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF45 PE=1 SV=1,QSTASSGSEDVVR,18.94,ORF45
+F5HCV3,ORF50,Putative transcription activator ORF50 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF50 PE=3 SV=1,IMAPLEIMTK,50.27,ORF50
+F5HCV3,ORF50,Putative transcription activator ORF50 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF50 PE=3 SV=1,GQLAPENFYSITGSAEK,46.45,ORF50
+F5HCV3,ORF50,Putative transcription activator ORF50 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF50 PE=3 SV=1,DSTAAATAAEATTPK,26.46,ORF50
+Q2HR80,ORF52,Tegument protein ORF52 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF52 PE=1 SV=1,ISQLTVENR,26.22,ORF52
+Q2HR80,ORF52,Tegument protein ORF52 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF52 PE=1 SV=1,EAQLTATVGALSAAAAK,46.08,ORF52
+Q2HR80,ORF52,Tegument protein ORF52 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF52 PE=1 SV=1,QVDDALK,20.3,ORF52
+Q2HR75,ORF57,mRNA export factor ICP27 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF57 PE=1 SV=1,GTQSAQGIPPPLGR,33.89,ORF57
+Q2HR75,ORF57,mRNA export factor ICP27 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF57 PE=1 SV=1,LPASMIIDGESPR,42.24,ORF57
+Q2HR75,ORF57,mRNA export factor ICP27 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF57 PE=1 SV=1,FDDSIIPR,41.01,ORF57
+F5HID2,ORF59,DNA polymerase processivity factor OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF59 PE=3 SV=1,TTISYGDNLTSTVHK,31.85,ORF59
+F5HID2,ORF59,DNA polymerase processivity factor OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF59 PE=3 SV=1,SVDVGVVHTDALSR,34.44,ORF59
+F5HID2,ORF59,DNA polymerase processivity factor OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF59 PE=3 SV=1,VPDSIPDSR,25.93,ORF59
+Q9QR70,ORF75,Protein ORF75 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF75 PE=4 SV=1,ELGLQEWAR,43.46,ORF75
+Q9QR70,ORF75,Protein ORF75 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF75 PE=4 SV=1,ALPQELLPVPAWR,59.22,ORF75
+Q9QR70,ORF75,Protein ORF75 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF75 PE=4 SV=1,WAVNLETNVSK,40.93,ORF75
+Q2HRD0,ORF9,DNA polymerase catalytic subunit OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF9 PE=3 SV=1,AYDTQQYAVQK,24.95,ORF9
+Q2HRD0,ORF9,DNA polymerase catalytic subunit OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF9 PE=3 SV=1,LLTVWLAK,50.17,ORF9
+Q2HRD0,ORF9,DNA polymerase catalytic subunit OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF9 PE=3 SV=1,SSQVLDLILR,54.48,ORF9
+Q2HR67,RIR1,Ribonucleoside-diphosphate reductase large subunit OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=RIR1 PE=3 SV=1,TMGTEPVYESVAQMFMR,64.79,RIR1
+Q2HR67,RIR1,Ribonucleoside-diphosphate reductase large subunit OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=RIR1 PE=3 SV=1,LWYLFDPATAPNLIK,67.25,RIR1
+Q2HR67,RIR1,Ribonucleoside-diphosphate reductase large subunit OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=RIR1 PE=3 SV=1,APFVDQSQSMSFFLK,57.14,RIR1
+Q2HR63,SCP,Small capsomere-interacting protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=SCP PE=1 SV=1,LDHDYAHHPLVAR,22.39,SCP
+Q2HR63,SCP,Small capsomere-interacting protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=SCP PE=1 SV=1,MNTLDQGNMSQAEYLVQK,43.55,SCP
+F5HB62,TK,Thymidine kinase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=TK PE=3 SV=1,LSATDDDSGDYAPMDR,33.62,TK
+F5HB62,TK,Thymidine kinase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=TK PE=3 SV=1,TPVTVDYR,27.11,TK
+F5HB62,TK,Thymidine kinase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=TK PE=3 SV=1,LQFIVADADK,41.92,TK
+Q71U36,TUBA1A,Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1,TIGGGDDSFNTFFSETGAGK,52.43,sp|Q71U36|TBA1A_HUMAN
+Q71U36,TUBA1A,Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1,IHFPLATYAPVISAEK,50.99,sp|Q71U36|TBA1A_HUMAN
+Q71U36,TUBA1A,Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1,EDMAALEK,25.77,sp|Q71U36|TBA1A_HUMAN
+F5HB39,CVC1,Capsid vertex component 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=CVC1 PE=3 SV=1,GPLQVLTGLLR,65.23,CVC1
+F5HB39,CVC1,Capsid vertex component 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=CVC1 PE=3 SV=1,LSFNPVNADVPATWR,52.32,CVC1
+F5HB39,CVC1,Capsid vertex component 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=CVC1 PE=3 SV=1,GLASEASAWIR,45.89,CVC1
+Q2HRB3,CVC2,Capsid vertex component 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=CVC2 PE=3 SV=1,LDLLITQLK,53.2,CVC2
+Q2HRB3,CVC2,Capsid vertex component 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=CVC2 PE=3 SV=1,LNLVSLLGPK,55.6,CVC2
+Q2HRB3,CVC2,Capsid vertex component 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=CVC2 PE=3 SV=1,FQPGALPDPNAPMLK,47.34,CVC2
+F5HAK9,gH,Envelope glycoprotein H OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gH PE=1 SV=1,SATQLINGR,24.63,gH
+F5HAK9,gH,Envelope glycoprotein H OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gH PE=1 SV=1,LVLGDIFASK,53.45,gH
+F5HAK9,gH,Envelope glycoprotein H OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gH PE=1 SV=1,SSQETVLAMVQLGAR,52.2,gH
+F5HDB7,gL,Envelope glycoprotein L OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gL PE=1 SV=1,TGDITVETC[+57]VNGFNLR,47.72,gL
+F5HDB7,gL,Envelope glycoprotein L OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gL PE=1 SV=1,LGSWASQENLR,34.33,gL
+F5HDB7,gL,Envelope glycoprotein L OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gL PE=1 SV=1,LLWYLQR,49.11,gL
+F5HDD0,gM,Envelope glycoprotein M OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gM PE=1 SV=1,FLMSSWVK,48.13,gM
+F5HDD0,gM,Envelope glycoprotein M OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gM PE=1 SV=1,TPTVHQKPPPLPAK,22.41,gM
+F5HDD0,gM,Envelope glycoprotein M OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=gM PE=1 SV=1,DISTPAPR,23.45,gM
+Q2HR89,HELI,DNA replication helicase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=HELI PE=3 SV=1,VTQSSIEQLQR,28.47,HELI
+Q2HR89,HELI,DNA replication helicase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=HELI PE=3 SV=1,GQYSSLSQSAFR,33.4,HELI
+Q2HR89,HELI,DNA replication helicase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=HELI PE=3 SV=1,TLEYNLDISPELMDYIDR,65.71,HELI
+P0C788,K14,OX-2 membrane glycoprotein homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K14 PE=1 SV=1,ADIVSVTWQK,40.78,K14
+P0C788,K14,OX-2 membrane glycoprotein homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=K14 PE=1 SV=1,QLPGPVNVATYSHSYGVVVQTQYR,47.36,K14
+Q98157,ORF K4,Viral macrophage inflammatory protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF K4 PE=1 SV=1,LMQQLPVTAR,35.51,ORF K4
+F5HGJ3,ORF16,Apoptosis regulator Bcl-2 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF16 PE=1 SV=1,LYITGLMR,46.35,ORF16
+F5HGJ3,ORF16,Apoptosis regulator Bcl-2 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF16 PE=1 SV=1,FHSTTGINQLGLSMLQVSGDGNMNWGR,56.94,ORF16
+Q2HRC6,ORF2,Putative Dihydrofolate reductase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF2 PE=3 SV=1,TLETPPPGAHFLASSLDAALGLAR,63.73,ORF2
+Q2HRC6,ORF2,Putative Dihydrofolate reductase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF2 PE=3 SV=1,EALTGPWPVR,43.55,ORF2
+Q2HRB2,ORF20,Protein UL24 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF20 PE=2 SV=1,YSTLPDLWR,50.03,ORF20
+F5HIM6,ORF23,Protein ORF23 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF23 PE=3 SV=1,FGTPDSSTLPLYAAR,47.23,ORF23
+F5HIM6,ORF23,Protein ORF23 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF23 PE=3 SV=1,LAITSDQSYTNFK,39.66,ORF23
+F5HFD2,ORF24,Protein ORF24 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF24 PE=3 SV=1,DLVGFQLALNQLVSR,69.32,ORF24
+F5HFD2,ORF24,Protein ORF24 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF24 PE=3 SV=1,TLGSSTVSDMLEPTK,43.87,ORF24
+F5HFD2,ORF24,Protein ORF24 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF24 PE=3 SV=1,NANFISFVATTGHR,43.53,ORF24
+F5HDY6,ORF27,Protein ORF27 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF27 PE=4 SV=1,DAFLSDGIVDMAR,54.96,ORF27
+F5HDY6,ORF27,Protein ORF27 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF27 PE=4 SV=1,LPYTVPIINTTFGR,57.21,ORF27
+F5HDY6,ORF27,Protein ORF27 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF27 PE=4 SV=1,DYGLFISQPR,48.03,ORF27
+F5HI25,ORF28,Protein ORF28 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF28 PE=4 SV=1,TLGPQAGSHAPPTVGIATQEPYR,37.27,ORF28
+F5HEF2,ORF33,Cytoplasmic envelopment protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF33 PE=3 SV=1,FPYIAPPPSR,41.53,ORF33
+F5HEF2,ORF33,Cytoplasmic envelopment protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF33 PE=3 SV=1,NFLGLLFDPIVQSR,70.26,ORF33
+F5HEF2,ORF33,Cytoplasmic envelopment protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF33 PE=3 SV=1,APWVLLR,47.23,ORF33
+Q2HR98,ORF34,Protein UL95 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF34 PE=3 SV=1,DLLSFVNHALK,56.32,ORF34
+Q2HR98,ORF34,Protein UL95 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF34 PE=3 SV=1,GTQYITGNVQTQR,27.42,ORF34
+F5HCD4,ORF35,Protein ORF35 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF35 PE=4 SV=1,FGGSSAVFEK,31.13,ORF35
+F5HCD4,ORF35,Protein ORF35 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF35 PE=4 SV=1,EAELGTLVR,35.36,ORF35
+F5HGH5,ORF36,Protein ORF36 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF36 PE=1 SV=1,WTNLVVTSNLGFK,52.76,ORF36
+Q2HR95,ORF37,Shutoff alkaline exonuclease OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF37 PE=1 SV=1,ATSSQSLNPVWDALR,50.7,ORF37
+Q2HR95,ORF37,Shutoff alkaline exonuclease OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF37 PE=1 SV=1,IFSPWPITNNHFVAGPLAFGLR,65.93,ORF37
+Q2HR95,ORF37,Shutoff alkaline exonuclease OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF37 PE=1 SV=1,ANLFVNVR,38.1,ORF37
+Q2HR92,ORF40,DNA helicase/primase complex-associated protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF40 PE=3 SV=1,DLAIWELALR,66.67,ORF40
+Q2HR92,ORF40,DNA helicase/primase complex-associated protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF40 PE=3 SV=1,TASLPVVLIMTVGR,64.68,ORF40
+F5HAI6,ORF42,Cytoplasmic envelopment protein 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF42 PE=3 SV=1,NNALVGSNTPK,21.7,ORF42
+F5HAI6,ORF42,Cytoplasmic envelopment protein 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF42 PE=3 SV=1,ATPLVMFK,42.8,ORF42
+F5HGK9,ORF43,Portal protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF43 PE=3 SV=1,NPGVFFR,36.49,ORF43
+F5HGK9,ORF43,Portal protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF43 PE=3 SV=1,ELLNLLMK,53.58,ORF43
+F5HGK9,ORF43,Portal protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF43 PE=3 SV=1,GPGSVNLLTANTFQSLGR,52.98,ORF43
+F5HFA1,ORF46,Uracil-DNA glycosylase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF46 PE=3 SV=1,TPLINAQK,24.08,ORF46
+F5HFA1,ORF46,Uracil-DNA glycosylase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF46 PE=3 SV=1,HLVLTAQHPSPLASLGGR,38.17,ORF46
+Q2HR85,ORF48,Tegument protein ORF48 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF48 PE=3 SV=1,AQIVAFGTTSGFVK,48.11,ORF48
+Q2HR83,ORF49,Protein ORF49 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF49 PE=3 SV=1,ANLAYSLQQLYK,49.34,ORF49
+F5H9W9,ORF55,Tegument protein ORF55 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF55 PE=3 SV=1,LGDPLEGC[+57]PER,32.85,ORF55
+F5H9W9,ORF55,Tegument protein ORF55 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF55 PE=3 SV=1,IPAGC[+57]QETVK,20.08,ORF55
+F5H9W9,ORF55,Tegument protein ORF55 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF55 PE=3 SV=1,LATAMASDDSVIWASEISHSLSEPTSVLPLTPAVTR,68.26,ORF55
+F5HIN0,ORF56,DNA primase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF56 PE=3 SV=1,DTASLLATISQQVPHLR,60.23,ORF56
+F5HIN0,ORF56,DNA primase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF56 PE=3 SV=1,IFYHDLSLSLPTLK,54.18,ORF56
+F5HIN0,ORF56,DNA primase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF56 PE=3 SV=1,SIEDWLHSAVWDK,57.21,ORF56
+F5HEU7,ORF63,Inner tegument protein OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF63 PE=3 SV=1,ALAFFVPPAPINTLQR,61.45,ORF63
+Q2HR64,ORF64,Large tegument protein deneddylase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF64 PE=3 SV=1,SLIQAFNAEGIR,48.32,ORF64
+Q2HR64,ORF64,Large tegument protein deneddylase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF64 PE=3 SV=1,LALSVAGPVPGR,41.67,ORF64
+Q2HR64,ORF64,Large tegument protein deneddylase OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF64 PE=3 SV=1,LPPTAPTPATAALETK,39.31,ORF64
+F5HG20,ORF66,Protein ORF66 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF66 PE=3 SV=1,GFQGNMPSWAR,40.18,ORF66
+F5HG20,ORF66,Protein ORF66 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF66 PE=3 SV=1,AVLANNAALAIR,39.14,ORF66
+F5HF47,ORF68,Packaging protein UL32 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF68 PE=3 SV=1,ILGISNLQFLK,58.03,ORF68
+F5HF47,ORF68,Packaging protein UL32 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF68 PE=3 SV=1,LIASDMSELK,37.21,ORF68
+F5HF47,ORF68,Packaging protein UL32 homolog OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=ORF68 PE=3 SV=1,VVSEDVLFR,41.69,ORF68
+F5H8Y5,TRX1,Triplex capsid protein 1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=TRX1 PE=3 SV=1,GFAEVVAMIK,52.97,TRX1
+F5HGN8,TRX2,Triplex capsid protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=TRX2 PE=3 SV=1,LFADELAALQSK,50.85,TRX2
+F5HGN8,TRX2,Triplex capsid protein 2 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=TRX2 PE=3 SV=1,ETSPDYIQIMQYLSK,61.68,TRX2
+F5HF68,vIRF-1,VIRF-1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=vIRF-1 PE=1 SV=1,SESPGEGPSGTGGSAAAGDITR,26.95,vIRF-1

@@ -1,0 +1,13 @@
+virus,timepoint,treatment,replicate,2^-?Ct
+HCMV,48,control,1,16.71900352
+HCMV,48,control,2,22.28139947
+HCMV,48,control,3,15.05391367
+HCMV,48,cidofovir,1,3.11658
+HCMV,48,cidofovir,2,2.904828006
+HCMV,48,cidofovir,3,3.662708423
+HSV-1,12,control,1,319.8902182
+HSV-1,12,control,2,257.1580825
+HSV-1,12,control,3,367.3186476
+HSV-1,12,acyclovir,1,21.39099908
+HSV-1,12,acyclovir,2,19.92445995
+HSV-1,12,acyclovir,3,35.50917118

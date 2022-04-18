@@ -1,0 +1,8 @@
+,vol inoculum,Dilution factor,Dilution factor,Dilution factor,Dilution factor,Dilution factor,Dilution factor,Plaque count,Plaque count,Plaque count,Plaque count,Plaque count,Plaque count
+bio. Replicate,vol inoculum,1,1,2,2,3,3,1,1,2,2,3,3
+tech. replicate,vol inoculum,1,2,1,2,1,2,1,2,1,2,1,2
+sample,,,,,,,,,,,,,
+DMSO,250,1.00E-04,1.00E-04,1.00E-05,1.00E-05,1.00E-05,1.00E-05,33,47,11,11,16,15
+ACV (1uM),250,1.00E-04,1.00E-04,1.00E-04,1.00E-04,1.00E-04,1.00E-04,7,8,27,21,13,16
+ACV (3uM),250,1.00E-02,1.00E-02,1.00E-03,1.00E-03,1.00E-03,1.00E-03,45,43,9,11,22,20
+CAY10602 (12.5uM),250,1.00E-04,1.00E-04,1.00E-05,1.00E-05,1.00E-05,1.00E-05,40,37,14.5,8,12,14

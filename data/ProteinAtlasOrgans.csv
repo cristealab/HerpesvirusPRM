@@ -1,0 +1,62 @@
+organ,tissue
+Brain,Cerebral cortex
+Brain,Cerebellum
+Brain,Olfactory region
+Brain,Hippocampal formation
+Brain,Amygdala
+Brain,Basal ganglia
+Brain,Thalamus
+Brain,Hypothalamus
+Brain,Midbrain
+Brain,Pons and medulla
+Brain,Corpus callosum
+Brain,Spinal cord
+Eye,Retina
+Endocrine tissues,Thyroid gland
+Endocrine tissues,Parathyroid gland
+Endocrine tissues,Adrenal gland
+Endocrine tissues,Pituitary gland
+Lung,Lung
+Proximal digestive tract,Salivary gland
+Proximal digestive tract,Esophagus
+Proximal digestive tract,Tongue
+"Gastrointestinal tract	",Stomach
+"Gastrointestinal tract	",Duodenum
+"Gastrointestinal tract	",Small intestine
+"Gastrointestinal tract	",Colon
+"Gastrointestinal tract	",Rectum
+"Liver & gallbladder	",Liver
+"Liver & gallbladder	",Gallbladder
+Pancreas,Pancreas
+Kidney & urinary bladder,Kidney
+Kidney & urinary bladder,Urinary bladder
+Male tissues,Testis
+Male tissues,Epididymis
+Male tissues,Seminal vesicle
+Male tissues,Prostate
+Male tissues,Ductus deferens
+Female tissues,Vagina
+Female tissues,Ovary
+Female tissues,Fallopian tube
+Female tissues,Endometrium
+Female tissues,"Cervix, uterine"
+Female tissues,Placenta
+Female tissues,Breast
+Muscle tissues,Heart muscle
+Muscle tissues,Smooth muscle
+Muscle tissues,Skeletal muscle
+Adipose & soft tissue,Adipose tissue
+Skin,Skin
+Bone marrow & lymphoid tissues,Thymus
+Bone marrow & lymphoid tissues,Appendix
+Bone marrow & lymphoid tissues,Spleen
+Bone marrow & lymphoid tissues,Lymph node
+Bone marrow & lymphoid tissues,Tonsil
+Bone marrow & lymphoid tissues,Bone marrow
+Blood,Granulocytes
+Blood,Monocytes
+Blood,T-cells
+Blood,B-cells
+Blood,NK-cells
+Blood,Dendritic cells
+Blood,Total PBMC

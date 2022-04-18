@@ -1,0 +1,203 @@
+Protein Accession,Protein Gene,Protein Description,Peptide Modified Sequence,Protein Name,Average Measured Retention Time
+P10201,CVC1,Capsid vertex component 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC1 PE=1 SV=1,AALQGGPR,sp|P10201|CVC1_HHV11,#N/A
+P10201,CVC1,Capsid vertex component 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC1 PE=1 SV=1,AWLGEVTR,sp|P10201|CVC1_HHV11,#N/A
+P10201,CVC1,Capsid vertex component 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC1 PE=1 SV=1,VVPLGDDLPAR,sp|P10201|CVC1_HHV11,#N/A
+P10209,CVC2,Capsid vertex component 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC2 PE=1 SV=1,NFITPEFPR,sp|P10209|CVC2_HHV11,#N/A
+P10209,CVC2,Capsid vertex component 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC2 PE=1 SV=1,DFWMSPVFNLPR,sp|P10209|CVC2_HHV11,#N/A
+P10209,CVC2,Capsid vertex component 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC2 PE=1 SV=1,GASGSDSGAIK,sp|P10209|CVC2_HHV11,#N/A
+P10209,CVC2,Capsid vertex component 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=CVC2 PE=1 SV=1,LTALELINR,sp|P10209|CVC2_HHV11,#N/A
+P04296,DBP,Major DNA-binding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DBP PE=1 SV=1,VPPGPLGYVYAR,DBP,#N/A
+P04296,DBP,Major DNA-binding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DBP PE=1 SV=1,VIAEPFNANHR,DBP,#N/A
+P04296,DBP,Major DNA-binding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DBP PE=1 SV=1,EALHTVVNNVR,DBP,#N/A
+P04296,DBP,Major DNA-binding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DBP PE=1 SV=1,VLFAGASANASEAAK,DBP,#N/A
+P10234,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DUT PE=3 SV=1,GGGVVQLNLVNR,sp|P10234|DUT_HHV11,#N/A
+P10234,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DUT PE=3 SV=1,VSGDSGWAVGR,sp|P10234|DUT_HHV11,#N/A
+P10234,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DUT PE=3 SV=1,EAIAFLPK,sp|P10234|DUT_HHV11,#N/A
+P10234,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=DUT PE=3 SV=1,GLLVVPTR,sp|P10234|DUT_HHV11,#N/A
+P10211,gB,Envelope glycoprotein B OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gB PE=1 SV=1,DVTVSQVWFGHR,gB,#N/A
+P10211,gB,Envelope glycoprotein B OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gB PE=1 SV=1,NNLETTAFHR,gB,#N/A
+P10211,gB,Envelope glycoprotein B OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gB PE=1 SV=1,FTVAWDWVPK,gB,#N/A
+P10211,gB,Envelope glycoprotein B OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gB PE=1 SV=1,LQFTYNHIQR,gB,#N/A
+P10228,gC,Envelope glycoprotein C OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gC PE=1 SV=1,TTPTEPASPPTTPKPTSTPK,sp|P10228|GC_HHV11,#N/A
+P10228,gC,Envelope glycoprotein C OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gC PE=1 SV=1,SPPTSTPDPKPK,sp|P10228|GC_HHV11,#N/A
+P10228,gC,Envelope glycoprotein C OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gC PE=1 SV=1,ATC[+57]TAAAYYPR,sp|P10228|GC_HHV11,#N/A
+P10228,gC,Envelope glycoprotein C OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gC PE=1 SV=1,DSVTFSR,sp|P10228|GC_HHV11,#N/A
+Q69091,gD,Envelope glycoprotein D OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gD PE=1 SV=1,DLPVLDQLTDPPGVR,sp|Q69091|GD_HHV11,#N/A
+Q69091,gD,Envelope glycoprotein D OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gD PE=1 SV=1,SVLLNAPSEAPQIVR,sp|Q69091|GD_HHV11,#N/A
+Q69091,gD,Envelope glycoprotein D OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gD PE=1 SV=1,SLGAC[+57]PIR,sp|Q69091|GD_HHV11,#N/A
+Q69091,gD,Envelope glycoprotein D OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gD PE=1 SV=1,YALPLR,sp|Q69091|GD_HHV11,#N/A
+P04488,gE,Envelope glycoprotein E OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gE PE=1 SV=1,VSVGEDVSLLPAPGPTGR,sp|P04488|GE_HHV11,#N/A
+P04488,gE,Envelope glycoprotein E OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gE PE=1 SV=1,TDFVWQER,sp|P04488|GE_HHV11,#N/A
+P04488,gE,Envelope glycoprotein E OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gE PE=1 SV=1,SLVIHGVR,sp|P04488|GE_HHV11,#N/A
+P04488,gE,Envelope glycoprotein E OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gE PE=1 SV=1,NAVVEQPLPQR,sp|P04488|GE_HHV11,#N/A
+P06477,gH,Envelope glycoprotein H OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gH PE=1 SV=1,VGDPADENPPGALPGPPGGPR,sp|P06477|GH_HHV11,#N/A
+P06477,gH,Envelope glycoprotein H OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gH PE=1 SV=1,VFVLGSLTR,sp|P06477|GH_HHV11,#N/A
+P06477,gH,Envelope glycoprotein H OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gH PE=1 SV=1,ALFYASAVLR,sp|P06477|GH_HHV11,#N/A
+P06477,gH,Envelope glycoprotein H OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gH PE=1 SV=1,QPFLAGVPSAVQR,sp|P06477|GH_HHV11,#N/A
+P06487,gI,Envelope glycoprotein I OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gI PE=1 SV=1,ATDSTHSPAYPTLELNLAQQPLLR,gI,#N/A
+P06487,gI,Envelope glycoprotein I OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gI PE=1 SV=1,SHPSTPPK,gI,#N/A
+P68331,gK,Envelope glycoprotein K OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gK PE=1 SV=1,MVAPATYLLNYAGR,sp|P68331|GK_HHV11,#N/A
+P68331,gK,Envelope glycoprotein K OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gK PE=1 SV=1,IVSSVFLQYPYTK,sp|P68331|GK_HHV11,#N/A
+P04288,gM,Envelope glycoprotein M OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gM PE=1 SV=1,GSPDSAPPTK,sp|P04288|GM_HHV11,#N/A
+P04288,gM,Envelope glycoprotein M OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gM PE=1 SV=1,GGVAVPLR,sp|P04288|GM_HHV11,#N/A
+P04288,gM,Envelope glycoprotein M OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gM PE=1 SV=1,GVLSGTYLR,sp|P04288|GM_HHV11,#N/A
+P04288,gM,Envelope glycoprotein M OS=Human herpesvirus 1 (strain 17) OX=10299 GN=gM PE=1 SV=1,HRPAPGSPPGIPEYAEDPYAISYGGQLDR,sp|P04288|GM_HHV11,#N/A
+P10189,HELI,DNA replication helicase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=HELI PE=3 SV=3,LNSAYVAMSR,sp|P10189|HELI_HHV11,#N/A
+P10189,HELI,DNA replication helicase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=HELI PE=3 SV=3,TTSSEFLR,sp|P10189|HELI_HHV11,#N/A
+P08393,ICP0,E3 ubiquitin-protein ligase ICP0 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP0 PE=1 SV=1,AGTAVDFIWTGNQR,ICP0,#N/A
+P08393,ICP0,E3 ubiquitin-protein ligase ICP0 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP0 PE=1 SV=1,GSGGPGVEGGHGPSR,ICP0,#N/A
+P08393,ICP0,E3 ubiquitin-protein ligase ICP0 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP0 PE=1 SV=1,YLPISGVSSVVALSPYVNK,ICP0,#N/A
+P08393,ICP0,E3 ubiquitin-protein ligase ICP0 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP0 PE=1 SV=1,HPWSGEQGASTR,ICP0,#N/A
+P04485,ICP22,Transcriptional regulator ICP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP22 PE=1 SV=1,DGVIFPK,ICP22,#N/A
+P04485,ICP22,Transcriptional regulator ICP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP22 PE=1 SV=1,APTPSAPSPNAMLR,ICP22,#N/A
+P04485,ICP22,Transcriptional regulator ICP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP22 PE=1 SV=1,WTPDLGYMR,ICP22,#N/A
+P04485,ICP22,Transcriptional regulator ICP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP22 PE=1 SV=1,LLQVSGGTWGMHLR,ICP22,#N/A
+P08392,ICP4,Major viral transcription factor ICP4 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP4 PE=1 SV=1,APAAGTDAGEDAGDAVSPR,ICP4,#N/A
+P08392,ICP4,Major viral transcription factor ICP4 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP4 PE=1 SV=1,GPSSAAPAAPGR,ICP4,#N/A
+P08392,ICP4,Major viral transcription factor ICP4 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP4 PE=1 SV=1,VAGGSEAAVAAVR,ICP4,#N/A
+P08392,ICP4,Major viral transcription factor ICP4 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP4 PE=1 SV=1,ALLEPDDDAPPLVLR,ICP4,#N/A
+P06491,MCP,Major capsid protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=MCP PE=1 SV=1,LFDFFSR,sp|P06491|MCP_HHV11,#N/A
+P06491,MCP,Major capsid protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=MCP PE=1 SV=1,APPLALLLPMQR,sp|P06491|MCP_HHV11,#N/A
+P06491,MCP,Major capsid protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=MCP PE=1 SV=1,YLDNGR,sp|P06491|MCP_HHV11,#N/A
+P06491,MCP,Major capsid protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=MCP PE=1 SV=1,LLQSFLK,sp|P06491|MCP_HHV11,#N/A
+P10215,NEC1,Nuclear egress protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=NEC1 PE=1 SV=1,SSAAGGTLGVVR,sp|P10215|NEC1_HHV11,#N/A
+P10215,NEC1,Nuclear egress protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=NEC1 PE=1 SV=1,SLSVPLVK,sp|P10215|NEC1_HHV11,#N/A
+P10218,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=NEC2 PE=1 SV=1,LIVPSTLR,sp|P10218|NEC2_HHV11,#N/A
+P10218,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=NEC2 PE=1 SV=1,GGDGEAGPYSPSSLPSR,sp|P10218|NEC2_HHV11,#N/A
+P10218,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=NEC2 PE=1 SV=1,VQLAFR,sp|P10218|NEC2_HHV11,#N/A
+P10218,NEC2,Nuclear egress protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=NEC2 PE=1 SV=1,FMGPEDAGR,sp|P10218|NEC2_HHV11,#N/A
+P08543,RIR1,Ribonucleoside-diphosphate reductase large subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR1 PE=1 SV=2,FLGDAVNR,sp|P08543|RIR1_HHV11,#N/A
+P08543,RIR1,Ribonucleoside-diphosphate reductase large subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR1 PE=1 SV=2,DGETLRPNTLLLK,sp|P08543|RIR1_HHV11,#N/A
+P08543,RIR1,Ribonucleoside-diphosphate reductase large subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR1 PE=1 SV=2,ADGTLPASTLVR,sp|P08543|RIR1_HHV11,#N/A
+P10224,RIR2,Ribonucleoside-diphosphate reductase small subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR2 PE=3 SV=1,LSEGELSFYR,sp|P10224|RIR2_HHV11,#N/A
+P10224,RIR2,Ribonucleoside-diphosphate reductase small subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR2 PE=3 SV=1,VDWLEAR,sp|P10224|RIR2_HHV11,#N/A
+P10224,RIR2,Ribonucleoside-diphosphate reductase small subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR2 PE=3 SV=1,VTC[+57]QSNDLISR,sp|P10224|RIR2_HHV11,#N/A
+P10224,RIR2,Ribonucleoside-diphosphate reductase small subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=RIR2 PE=3 SV=1,VYGLFR,sp|P10224|RIR2_HHV11,#N/A
+P10219,SCP,Small capsomere-interacting protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=SCP PE=1 SV=1,TYSPFVVR,sp|P10219|SCP_HHV11,#N/A
+P03176,TK,Thymidine kinase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TK PE=1 SV=4,VYIDGPHGMGK,TK,#N/A
+P03176,TK,Thymidine kinase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TK PE=1 SV=4,DDIVYVPEPMTYWR,TK,#N/A
+P03176,TK,Thymidine kinase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TK PE=1 SV=4,VLGASETIANIYTTQHR,TK,#N/A
+P03176,TK,Thymidine kinase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TK PE=1 SV=4,VYGLLANTVR,TK,#N/A
+P32888,TRX1,Triplex capsid protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX1 PE=1 SV=1,DTAGQGLLR,sp|P32888|TRX1_HHV11,#N/A
+P32888,TRX1,Triplex capsid protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX1 PE=1 SV=1,GGAALIGSPR,sp|P32888|TRX1_HHV11,#N/A
+P32888,TRX1,Triplex capsid protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX1 PE=1 SV=1,AGTLLLALR,sp|P32888|TRX1_HHV11,#N/A
+P32888,TRX1,Triplex capsid protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX1 PE=1 SV=1,GLEPALER,sp|P32888|TRX1_HHV11,#N/A
+P10202,TRX2,Triplex capsid protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX2 PE=1 SV=1,VVFLPTIR,sp|P10202|TRX2_HHV11,#N/A
+P10202,TRX2,Triplex capsid protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX2 PE=1 SV=1,FPAVITR,sp|P10202|TRX2_HHV11,#N/A
+P10202,TRX2,Triplex capsid protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX2 PE=1 SV=1,LDSLDLTLR,sp|P10202|TRX2_HHV11,#N/A
+P10202,TRX2,Triplex capsid protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=TRX2 PE=1 SV=1,FPVPLPSPLAR,sp|P10202|TRX2_HHV11,#N/A
+P04294,UL12,Alkaline nuclease OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL12 PE=1 SV=1,APLAIGPLWAR,UL12,#N/A
+P04294,UL12,Alkaline nuclease OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL12 PE=1 SV=1,DIHGYLAPVPK,UL12,#N/A
+P04294,UL12,Alkaline nuclease OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL12 PE=1 SV=1,HTISPVSWSSGDLVR,UL12,#N/A
+P04294,UL12,Alkaline nuclease OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL12 PE=1 SV=1,LEDGAGALGAAGPSK,UL12,#N/A
+P04291,UL14,Tegument protein UL14 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL14 PE=1 SV=2,EGVSTQDPR,sp|P04291|TEG3_HHV11,#N/A
+P10200,UL16,Cytoplasmic envelopment protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL16 PE=1 SV=1,IVNSVFVWR,sp|P10200|CEP2_HHV11,#N/A
+P10200,UL16,Cytoplasmic envelopment protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL16 PE=1 SV=1,AATPPEETPDPTTEQLAEEPVVGELDGAYLVPAK,sp|P10200|CEP2_HHV11,#N/A
+P10200,UL16,Cytoplasmic envelopment protein 2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL16 PE=1 SV=1,LQEVVGGR,sp|P10200|CEP2_HHV11,#N/A
+P10186,UL2,Uracil-DNA glycosylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL2 PE=1 SV=1,EDVFSWTR,sp|P10186|UNG_HHV11,#N/A
+P10186,UL2,Uracil-DNA glycosylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL2 PE=1 SV=1,ANVPPPPSLR,sp|P10186|UNG_HHV11,#N/A
+P10186,UL2,Uracil-DNA glycosylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL2 PE=1 SV=1,NVLAAVK,sp|P10186|UNG_HHV11,#N/A
+P10186,UL2,Uracil-DNA glycosylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL2 PE=1 SV=1,FSHPSPLSK,sp|P10186|UNG_HHV11,#N/A
+P10205,UL21,Tegument protein UL21 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL21 PE=1 SV=1,TSPGVLISGLR,sp|P10205|TEG4_HHV11,#N/A
+P10205,UL21,Tegument protein UL21 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL21 PE=1 SV=1,TDVVITGR,sp|P10205|TEG4_HHV11,#N/A
+P10205,UL21,Tegument protein UL21 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL21 PE=1 SV=1,LFGSAGAPR,sp|P10205|TEG4_HHV11,#N/A
+P10205,UL21,Tegument protein UL21 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL21 PE=1 SV=1,LSPFPALVR,sp|P10205|TEG4_HHV11,#N/A
+P10208,UL24,Protein UL24 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL24 PE=1 SV=1,VSGNITAVVR,sp|P10208|UL24_HHV11,#N/A
+P10210,UL26,Capsid scaffolding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL26 PE=1 SV=1,LGTIVTYDTGLDAAIAPFR,UL26,#N/A
+P10210,UL26,Capsid scaffolding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL26 PE=1 SV=1,WSLVAER,UL26,#N/A
+P10210,UL26,Capsid scaffolding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL26 PE=1 SV=1,QAGGQPAAGDPGVR,UL26,#N/A
+P10210,UL26,Capsid scaffolding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL26 PE=1 SV=1,AADLFVSQMMGAR,UL26,#N/A
+P10187,UL3,Nuclear phosphoprotein UL3 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL3 PE=3 SV=1,GAAVASPDQPLHGGPER,sp|P10187|NP03_HHV11,#N/A
+P04293,UL30,DNA polymerase catalytic subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL30 PE=1 SV=2,GISADHFEAEVVER,UL30,#N/A
+P04293,UL30,DNA polymerase catalytic subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL30 PE=1 SV=2,LNAVAEAVLK,UL30,#N/A
+P04293,UL30,DNA polymerase catalytic subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL30 PE=1 SV=2,ESLLSILLR,UL30,#N/A
+P04293,UL30,DNA polymerase catalytic subunit OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL30 PE=1 SV=2,IPQSSPEEAVLLDK,UL30,#N/A
+P10216,UL32,Packaging protein UL32 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL32 PE=1 SV=1,ATLVGSFAR,sp|P10216|UL32_HHV11,#N/A
+P10216,UL32,Packaging protein UL32 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL32 PE=1 SV=1,TDGGVPGR,sp|P10216|UL32_HHV11,#N/A
+P10220,UL36,Large tegument protein deneddylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL36 PE=1 SV=1,LAGGLLER,sp|P10220|LTP_HHV11,#N/A
+P10220,UL36,Large tegument protein deneddylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL36 PE=1 SV=1,AGAVEELGGR,sp|P10220|LTP_HHV11,#N/A
+P10220,UL36,Large tegument protein deneddylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL36 PE=1 SV=1,VSGGPGPLVLR,sp|P10220|LTP_HHV11,#N/A
+P10220,UL36,Large tegument protein deneddylase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL36 PE=1 SV=1,VLPAFSAGGPPTR,sp|P10220|LTP_HHV11,#N/A
+P10221,UL37,Inner tegument protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL37 PE=1 SV=1,FSSGQPSLLR,sp|P10221|ITP_HHV11,#N/A
+P10221,UL37,Inner tegument protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL37 PE=1 SV=1,LGALITLLEPAAR,sp|P10221|ITP_HHV11,#N/A
+P10221,UL37,Inner tegument protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL37 PE=1 SV=1,GVLQDLAER,sp|P10221|ITP_HHV11,#N/A
+P10221,UL37,Inner tegument protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL37 PE=1 SV=1,QLEDAIVLLR,sp|P10221|ITP_HHV11,#N/A
+P10188,UL4,Nuclear protein UL4 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL4 PE=3 SV=1,ASLTSALPDAAQVVHVFEYGTR,sp|P10188|NP04_HHV11,#N/A
+P10225,UL41,Virion host shutoff protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL41 PE=1 SV=1,SLFPIFVTDR,sp|P10225|SHUT_HHV11,#N/A
+P10225,UL41,Virion host shutoff protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL41 PE=1 SV=1,GTSLASGTR,sp|P10225|SHUT_HHV11,#N/A
+P10225,UL41,Virion host shutoff protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL41 PE=1 SV=1,FLEQLR,sp|P10225|SHUT_HHV11,#N/A
+P10225,UL41,Virion host shutoff protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL41 PE=1 SV=1,TQAPPPAFYK,sp|P10225|SHUT_HHV11,#N/A
+P10226,UL42,DNA polymerase processivity factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL42 PE=1 SV=1,VELAITGQAPFR,UL42,#N/A
+P10226,UL42,DNA polymerase processivity factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL42 PE=1 SV=1,EEGVSSSTSTQVQILSNALTK,UL42,#N/A
+P10226,UL42,DNA polymerase processivity factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL42 PE=1 SV=1,DLPTGEASPGAFSAFR,UL42,#N/A
+P10229,UL45,Envelope protein UL45 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL45 PE=3 SV=1,SSGYWWVSGDGIR,sp|P10229|EV45_HHV11,#N/A
+P10230,UL46,Tegument protein UL46 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL46 PE=1 SV=2,FLPLGGSPEAPAETFAR,sp|P10230|TEG1_HHV11,#N/A
+P10230,UL46,Tegument protein UL46 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL46 PE=1 SV=2,LANLWQTGK,sp|P10230|TEG1_HHV11,#N/A
+P10230,UL46,Tegument protein UL46 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL46 PE=1 SV=2,VYEEIPWMR,sp|P10230|TEG1_HHV11,#N/A
+P10230,UL46,Tegument protein UL46 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL46 PE=1 SV=2,TGPPPPPLSPSPVLAR,sp|P10230|TEG1_HHV11,#N/A
+P10231,UL47,Tegument protein UL47 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL47 PE=1 SV=1,QGGYLGPVDAR,sp|P10231|TEG5_HHV11,#N/A
+P10231,UL47,Tegument protein UL47 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL47 PE=1 SV=1,VEVLEGR,sp|P10231|TEG5_HHV11,#N/A
+P10231,UL47,Tegument protein UL47 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL47 PE=1 SV=1,LLMGDEGAAALR,sp|P10231|TEG5_HHV11,#N/A
+P10231,UL47,Tegument protein UL47 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL47 PE=1 SV=1,ATGLGGPPRP,sp|P10231|TEG5_HHV11,#N/A
+P06492,UL48,Tegument protein VP16 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL48 PE=1 SV=1,DGLGLYYEALSR,UL48,#N/A
+P06492,UL48,Tegument protein VP16 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL48 PE=1 SV=1,EHLNLPLVR,UL48,#N/A
+P06492,UL48,Tegument protein VP16 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL48 PE=1 SV=1,LSFLPAGHTR,UL48,#N/A
+P10233,UL49,Tegument protein VP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL49 PE=1 SV=1,FVQYDESDYALYGGSSSEDDEHPEVPR,UL49,#N/A
+P10233,UL49,Tegument protein VP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL49 PE=1 SV=1,LHFSTAPPNPDAPWTPR,UL49,#N/A
+P10233,UL49,Tegument protein VP22 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL49 PE=1 SV=1,TDEDLNELLGITTIR,UL49,#N/A
+P10235,UL51,Tegument protein UL51 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL51 PE=1 SV=1,AAVPPSEAEPR,sp|P10235|TEG7_HHV11,#N/A
+P10235,UL51,Tegument protein UL51 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL51 PE=1 SV=1,SADVLVSQAIR,sp|P10235|TEG7_HHV11,#N/A
+P10236,UL52,DNA primase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL52 PE=1 SV=1,GAAAAGFPLYVER,sp|P10236|PRIM_HHV11,#N/A
+P10236,UL52,DNA primase OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL52 PE=1 SV=1,ETLTEVLGR,sp|P10236|PRIM_HHV11,#N/A
+P10238,UL54,mRNA export factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL54 PE=1 SV=1,GSEQPDPPGGQR,UL54,#N/A
+P10238,UL54,mRNA export factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL54 PE=1 SV=1,APAADTIDATTR,UL54,#N/A
+P10238,UL54,mRNA export factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL54 PE=1 SV=1,VSWETLVAHGPSLYR,UL54,#N/A
+P10238,UL54,mRNA export factor OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL54 PE=1 SV=1,GVAEIDYATLGVGVGEK,UL54,#N/A
+P10240,UL56,Protein UL56 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL56 PE=1 SV=2,SFGPGGLLATPLFLPETR,sp|P10240|UL56_HHV11,#N/A
+P10240,UL56,Protein UL56 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL56 PE=1 SV=2,LVAPPDITR,sp|P10240|UL56_HHV11,#N/A
+P10190,UL6,Portal protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL6 PE=1 SV=1,EADIAGVAER,sp|P10190|PORTL_HHV11,#N/A
+P10190,UL6,Portal protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL6 PE=1 SV=1,VFDTWR,sp|P10190|PORTL_HHV11,#N/A
+P10190,UL6,Portal protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL6 PE=1 SV=1,LIINMK,sp|P10190|PORTL_HHV11,#N/A
+P10191,UL7,Cytoplasmic envelopment protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL7 PE=1 SV=1,SLVEAAEAISQQTLLR,sp|P10191|CEP1_HHV11,#N/A
+P10191,UL7,Cytoplasmic envelopment protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL7 PE=1 SV=1,FTATSIAR,sp|P10191|CEP1_HHV11,#N/A
+P10191,UL7,Cytoplasmic envelopment protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL7 PE=1 SV=1,LPGPPPR,sp|P10191|CEP1_HHV11,#N/A
+P10191,UL7,Cytoplasmic envelopment protein 1 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL7 PE=1 SV=1,APLVYWWLSETPK,sp|P10191|CEP1_HHV11,#N/A
+P10192,UL8,DNA helicase/primase complex-associated protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL8 PE=1 SV=1,ASWGPPAAPR,UL8,#N/A
+P10192,UL8,DNA helicase/primase complex-associated protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL8 PE=1 SV=1,AQLLAALADLGGSGLADPHGR,UL8,#N/A
+P10192,UL8,DNA helicase/primase complex-associated protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL8 PE=1 SV=1,GPAYTTAAGVVR,UL8,#N/A
+P10193,UL9,Replication origin-binding protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=UL9 PE=1 SV=1,IIWGELFGVQMAK,sp|P10193|OBP_HHV11,#N/A
+P06486,US10,Virion protein US10 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US10 PE=1 SV=1,DHPENLGNPEYR,sp|P06486|US10_HHV11,#N/A
+P06486,US10,Virion protein US10 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US10 PE=1 SV=1,YAPLASPDPFSPQHGAYAR,sp|P06486|US10_HHV11,#N/A
+P06486,US10,Virion protein US10 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US10 PE=1 SV=1,LVHTQWLR,sp|P06486|US10_HHV11,#N/A
+P04487,US11,Accessory factor US11 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US11 PE=1 SV=1,GVPSAGMHPR,sp|P04487|RNB_HHV11,#N/A
+P04487,US11,Accessory factor US11 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US11 PE=1 SV=1,MISGPPQR,sp|P04487|RNB_HHV11,#N/A
+P04487,US11,Accessory factor US11 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US11 PE=1 SV=1,GDNDQAAGQC[+57]GDSGLLR,sp|P04487|RNB_HHV11,#N/A
+P04487,US11,Accessory factor US11 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US11 PE=1 SV=1,VGADTTISKPSEAVRPPTIPR,sp|P04487|RNB_HHV11,#N/A
+P03170,US12,ICP47 protein OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US12 PE=1 SV=2,TGGTVTDSPR,sp|P03170|ICP47_HHV11,#N/A
+P06485,US2,Protein US2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US2 PE=1 SV=3,TSVDASPALWSFLLR,sp|P06485|US02_HHV11,#N/A
+P06485,US2,Protein US2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US2 PE=1 SV=3,DQPSPPR,sp|P06485|US02_HHV11,#N/A
+P06485,US2,Protein US2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US2 PE=1 SV=3,TPDAWVGEPWAVPTR,sp|P06485|US02_HHV11,#N/A
+P06485,US2,Protein US2 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US2 PE=1 SV=3,GPQETDPLIAVR,sp|P06485|US02_HHV11,#N/A
+P04413,US3,Serine/threonine-protein kinase US3 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US3 PE=1 SV=1,AGWYTSTSHEAR,US3,#N/A
+P04413,US3,Serine/threonine-protein kinase US3 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US3 PE=1 SV=1,YQADLYTYLSR,US3,#N/A
+P04413,US3,Serine/threonine-protein kinase US3 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US3 PE=1 SV=1,QLLSAVDYIHR,US3,#N/A
+P06481,US9,Envelope protein US9 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US9 PE=1 SV=1,LSDPNSSAR,sp|P06481|US9_HHV11,#N/A
+P06481,US9,Envelope protein US9 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=US9 PE=1 SV=1,SDMSVPLYPTASPVSVEAYYSESEDEAANDFLVR,sp|P06481|US9_HHV11,#N/A
+Q71U36,TUBA1A,Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1,EDMAALEK,sp|Q71U36|TBA1A_HUMAN,#N/A
+P35579,MYH9,Myosin-9 OS=Homo sapiens OX=9606 GN=MYH9 PE=1 SV=4,LEVNLQAMK,sp|P35579|MYH9_HUMAN,#N/A
+Q16666,IFI16,Gamma-interferon-inducible protein 16 OS=Homo sapiens OX=9606 GN=IFI16 PE=1 SV=3,EVDATSPAPSTSSTVK,sp|Q16666|IF16_HUMAN,#N/A
+Q16666,IFI16,Gamma-interferon-inducible protein 16 OS=Homo sapiens OX=9606 GN=IFI16 PE=1 SV=3,TPQMPPTTPSSSFFTK,sp|Q16666|IF16_HUMAN,#N/A
+Q16666,IFI16,Gamma-interferon-inducible protein 16 OS=Homo sapiens OX=9606 GN=IFI16 PE=1 SV=3,VFNIDLK,sp|Q16666|IF16_HUMAN,#N/A
+P29590,PML,Protein PML OS=Homo sapiens OX=9606 GN=PML PE=1 SV=3,APASEEEFQFLR,sp|P29590|PML_HUMAN,#N/A
+P23497,SP100,Nuclear autoantigen Sp-100 OS=Homo sapiens OX=9606 GN=SP100 PE=1 SV=3,LLYDIVFK,sp|P23497|SP100_HUMAN,#N/A
+P23497,SP100,Nuclear autoantigen Sp-100 OS=Homo sapiens OX=9606 GN=SP100 PE=1 SV=3,SGLQLSLEQGTGENSFR,sp|P23497|SP100_HUMAN,#N/A
+Q7Z2W4,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1 OS=Homo sapiens OX=9606 GN=ZC3HAV1 PE=1 SV=3,TVFSPTLPAAR,sp|Q7Z2W4|ZCCHV_HUMAN,#N/A
+Q7Z2W4,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1 OS=Homo sapiens OX=9606 GN=ZC3HAV1 PE=1 SV=3,SGTQDIQPGPLFNNNADGVATDITSTR,sp|Q7Z2W4|ZCCHV_HUMAN,#N/A
+Q7Z2W4,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1 OS=Homo sapiens OX=9606 GN=ZC3HAV1 PE=1 SV=3,VALVNDSLSDVTSTTSSR,sp|Q7Z2W4|ZCCHV_HUMAN,#N/A
+Q7Z2W4,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1 OS=Homo sapiens OX=9606 GN=ZC3HAV1 PE=1 SV=3,DQVYPQYVIEYTEDK,sp|Q7Z2W4|ZCCHV_HUMAN,#N/A
+Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=C1QBP PE=1 SV=1",AFVDFLSDEIK,sp|Q07021|C1QBP_HUMAN,#N/A
+Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=C1QBP PE=1 SV=1",MSGGWELELNGTEAK,sp|Q07021|C1QBP_HUMAN,#N/A
+Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=C1QBP PE=1 SV=1",VEEQEPELTSTPNFVVEVIK,sp|Q07021|C1QBP_HUMAN,#N/A
+Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=C1QBP PE=1 SV=1",EVSFQSTGESEWK,sp|Q07021|C1QBP_HUMAN,#N/A
+Q8IWB7,WDFY1,WD repeat and FYVE domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDFY1 PE=1 SV=1,EDGVITASEDR,sp|Q8IWB7|WDFY1_HUMAN,#N/A
+Q8IWB7,WDFY1,WD repeat and FYVE domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDFY1 PE=1 SV=1,LLFSGASDNSIIMWDIGGR,sp|Q8IWB7|WDFY1_HUMAN,#N/A

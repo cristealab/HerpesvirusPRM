@@ -1,0 +1,229 @@
+Protein Accession,Protein Gene,Protein Description,Peptide Modified Sequence,Average Measured Retention Time,Protein Name
+P16810,,Uncharacterized protein IRL12 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=4 SV=1,NAHTQSWYWLR,39.58,sp|P16810|IR12_HCMVA
+P16810,,Uncharacterized protein IRL12 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=4 SV=1,YNTDIENEDR,25.94,sp|P16810|IR12_HCMVA
+P16810,,Uncharacterized protein IRL12 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=4 SV=1,YHMLQDTVSESEFIVR,47.79,sp|P16810|IR12_HCMVA
+P16809,,Viral Fc-gamma receptor-like protein IR11 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,MPPLC[+57]IITDAYK,54.51,sp|P16809|IR11_HCMVA
+P16809,,Viral Fc-gamma receptor-like protein IR11 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,VVVTDSQEADR,22.4,sp|P16809|IR11_HCMVA
+P16809,,Viral Fc-gamma receptor-like protein IR11 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,TDLDTEPLLLTVDGDLQ,67.46,sp|P16809|IR11_HCMVA
+P17147,DBP,Major DNA-binding protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=DBP PE=1 SV=1,LVYLQSSAR,30.43,DBP
+P17147,DBP,Major DNA-binding protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=DBP PE=1 SV=1,FLNDVDILGSFGR,61.86,DBP
+P17147,DBP,Major DNA-binding protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=DBP PE=1 SV=1,TAGVPAPMAATVAR,36.6,DBP
+P06473,gB,Envelope glycoprotein B OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gB PE=1 SV=1,TMQLIPDDYSNTHSTR,36.96,gB
+P06473,gB,Envelope glycoprotein B OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gB PE=1 SV=1,SSNVFDLEEIMR,58.76,gB
+P06473,gB,Envelope glycoprotein B OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gB PE=1 SV=1,DTSLQAPPSYEESVYNSGR,43.25,gB
+P12824,gH,Envelope glycoprotein H OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gH PE=1 SV=1,TTLLLYPTAVDLAK,57.83,gH
+P16733,gM,Envelope glycoprotein M OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gM PE=1 SV=1,GMSLNQSTR,22.32,gM
+P16733,gM,Envelope glycoprotein M OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gM PE=1 SV=1,SLFFFSR,53.49,gM
+P16733,gM,Envelope glycoprotein M OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gM PE=1 SV=1,YQALATASGEEVAVLSHHDSLESR,42.33,gM
+P16795,gN,Envelope glycoprotein N OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gN PE=1 SV=1,LSSTTHDPNVMR,22.28,gN
+P16795,gN,Envelope glycoprotein N OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gN PE=1 SV=1,HANDDFYK,19.88,gN
+P09715,IRS1,Protein IRS1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=IRS1 PE=1 SV=1,EPHGQWEFMFR,46.79,IRS1
+P09715,IRS1,Protein IRS1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=IRS1 PE=1 SV=1,TLGLDLTTVMTER,57.59,IRS1
+P09715,IRS1,Protein IRS1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=IRS1 PE=1 SV=1,TGPGPPPLPPK,30.79,IRS1
+P16729,MCP,Major capsid protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=MCP PE=1 SV=1,TSAGEEMFEALR,47.48,MCP
+P16729,MCP,Major capsid protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=MCP PE=1 SV=1,VASGAGLPTSR,24.08,MCP
+P16794,NEC1,Nuclear egress protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=NEC1 PE=1 SV=1,LTLHDLHDIFR,47.41,NEC1
+P16794,NEC1,Nuclear egress protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=NEC1 PE=1 SV=1,QHTC[+57]LDISPYGNEQVSR,34.69,NEC1
+P16791,NEC2,Nuclear egress protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=NEC2 PE=1 SV=1,VLHQDLVQATR,26.26,NEC2
+P16791,NEC2,Nuclear egress protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=NEC2 PE=1 SV=1,AASTSLAVR,22.9,NEC2
+P16782,RIR1,Ribonucleoside-diphosphate reductase large subunit-like protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=RIR1 PE=3 SV=1,VSSGLSTFNPAGATR,37.51,RIR1
+P16782,RIR1,Ribonucleoside-diphosphate reductase large subunit-like protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=RIR1 PE=3 SV=1,FEGEVLESVLK,51.49,RIR1
+P16782,RIR1,Ribonucleoside-diphosphate reductase large subunit-like protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=RIR1 PE=3 SV=1,ELVTEAVVWGNAR,49.17,RIR1
+P16724,TRM1,Tripartite terminase subunit 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM1 PE=3 SV=1,IYPEVVAQNR,32.1,TRM1
+P16724,TRM1,Tripartite terminase subunit 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM1 PE=3 SV=1,EYNLFTDIPER,51.61,TRM1
+P16724,TRM1,Tripartite terminase subunit 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM1 PE=3 SV=1,LMNGFLYR,43.12,TRM1
+P16792,TRM2,Tripartite terminase subunit 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM2 PE=3 SV=1,VYDLLLPSLDAR,59.25,TRM2
+P16792,TRM2,Tripartite terminase subunit 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM2 PE=3 SV=1,TQLLTAIVSK,42.68,TRM2
+P16792,TRM2,Tripartite terminase subunit 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM2 PE=3 SV=1,LMDINGILEGK,52.75,TRM2
+P16732,TRM3,Tripartite terminase subunit 3 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM3 PE=1 SV=1,DPQFQQINNFMTDFK,61.39,TRM3
+P16732,TRM3,Tripartite terminase subunit 3 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM3 PE=1 SV=1,EAFNTILGFLAQNTTK,64.27,TRM3
+P16732,TRM3,Tripartite terminase subunit 3 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRM3 PE=1 SV=1,YSTLNTNAYDYFGK,46.71,TRM3
+P09695,TRS1,Protein HHLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRS1 PE=1 SV=1,DDEDWKPSR,23.37,TRS1
+P09695,TRS1,Protein HHLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRS1 PE=1 SV=1,VTFSNIATHYHYNAQ,37.46,TRS1
+P16783,TRX1,Triplex capsid protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRX1 PE=1 SV=1,DPADEDNELVTALK,47.81,TRX1
+P16783,TRX1,Triplex capsid protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRX1 PE=1 SV=1,AALQWLDLGPHLLHR,53.67,TRX1
+P16783,TRX1,Triplex capsid protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRX1 PE=1 SV=1,LDNFSVELGDFR,55.32,TRX1
+P16728,TRX2,Triplex capsid protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRX2 PE=1 SV=1,LVAAVVPIPQR,43.87,TRX2
+P16728,TRX2,Triplex capsid protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRX2 PE=1 SV=1,AAVQQLQTITFR,43.95,TRX2
+P16728,TRX2,Triplex capsid protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=TRX2 PE=1 SV=1,LALEDSSMLLVK,52.81,TRX2
+P16827,UL102,DNA helicase/primase complex-associated protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL102 PE=2 SV=2,DYLGPDLFETGAAR,56.23,UL102
+P16827,UL102,DNA helicase/primase complex-associated protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL102 PE=2 SV=2,VSVSELEAVYR,46.38,UL102
+P16827,UL102,DNA helicase/primase complex-associated protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL102 PE=2 SV=2,SLAVDAQHAAK,21.19,UL102
+P16734,UL103,Cytoplasmic envelopment protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL103 PE=3 SV=1,GVLEVHTDFTR,36.22,UL103
+P16734,UL103,Cytoplasmic envelopment protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL103 PE=3 SV=1,QNVMIMEPQVLDFTVR,61.69,UL103
+P16734,UL103,Cytoplasmic envelopment protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL103 PE=3 SV=1,LTGQDEAHSFSLK,30.95,UL103
+P17151,UL112/UL113,Early phosphoprotein p84 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL112/UL113 PE=1 SV=2,ILHQSVNQTFDVR,31.83,UL112/UL113
+P17151,UL112/UL113,Early phosphoprotein p84 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL112/UL113 PE=1 SV=2,VPPNSQESAAPQPPR,25.42,UL112/UL113
+P17151,UL112/UL113,Early phosphoprotein p84 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL112/UL113 PE=1 SV=2,LLPETSGGTVVVNHSSVAR,33.6,UL112/UL113
+P16770,UL117,Protein UL117 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL117 PE=3 SV=1,YAPLFASK,35.01,UL117
+P16770,UL117,Protein UL117 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL117 PE=3 SV=1,YVFEEVSR,35.11,UL117
+P16770,UL117,Protein UL117 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL117 PE=3 SV=1,FFHQDPNR,20.75,UL117
+P16739,UL119/UL118,Viral Fc-gamma receptor-like protein UL119 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL119/UL118 PE=2 SV=2,GPFTQVGYLSAFPPDNEGK,55.98,UL119/UL118
+P16739,UL119/UL118,Viral Fc-gamma receptor-like protein UL119 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL119/UL118 PE=2 SV=2,SFTTTYVFIK,48.1,UL119/UL118
+P16739,UL119/UL118,Viral Fc-gamma receptor-like protein UL119 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL119/UL118 PE=2 SV=2,LEEPVEEK,23.43,UL119/UL118
+P19893,UL122,Viral transcription factor IE2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL122 PE=1 SV=2,GIQIIYTR,37.76,UL122
+P19893,UL122,Viral transcription factor IE2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL122 PE=1 SV=2,IFSTNQGGFMLPIYETAAK,60.32,UL122
+P13202,UL123,55 kDa immediate-early protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL123 PE=1 SV=1,VHEPFEEMK,27.36,UL123
+P13202,UL123,55 kDa immediate-early protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL123 PE=1 SV=1,LGGALQAK,21.64,UL123
+P13202,UL123,55 kDa immediate-early protein 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL123 PE=1 SV=1,VFAQYILGADPLR,58.4,UL123
+P16755,UL13,Uncharacterized protein UL13 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL13 PE=3 SV=1,HDASENAVR,14.21,UL13
+P16755,UL13,Uncharacterized protein UL13 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL13 PE=3 SV=1,QNPAAEAQELAVIPPAPTVLR,57.49,UL13
+P16755,UL13,Uncharacterized protein UL13 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL13 PE=3 SV=1,QQLTGEETR,19.09,UL13
+P69338,UL132,Envelope glycoprotein UL132 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL132 PE=3 SV=1,DWDEEEEASAAR,33.32,UL132
+P69338,UL132,Envelope glycoprotein UL132 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL132 PE=3 SV=1,DGNLDTSFVNPNYGR,48.47,UL132
+P69338,UL132,Envelope glycoprotein UL132 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL132 PE=3 SV=1,GSPLTIESHLSDNEEDPIR,42.92,UL132
+P16845,UL22A,Glycoprotein UL22A OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL22A PE=3 SV=2,SVTVEQPSTSADGSNTTPSK,27.04,UL22A
+P16760,UL24,Protein UL24 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL24 PE=3 SV=3,AWSLGLDTMAR,50.66,UL24
+P16760,UL24,Protein UL24 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL24 PE=3 SV=3,FSGHNGIYDR,22.51,UL24
+P16761,UL25,Phosphoprotein 85 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL25 PE=3 SV=1,SATEDLDR,19.87,UL25
+P16761,UL25,Phosphoprotein 85 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL25 PE=3 SV=1,FVLQDFDVQHLR,50.03,UL25
+P16761,UL25,Phosphoprotein 85 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL25 PE=3 SV=1,DYNVLFYTAHYTSR,49.45,UL25
+P16762,UL26,Tegument protein UL26 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL26 PE=3 SV=2,APDGGLNLDDFMR,55.7,UL26
+P16762,UL26,Tegument protein UL26 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL26 PE=3 SV=2,LLVVTQGQLR,38.38,UL26
+P16762,UL26,Tegument protein UL26 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL26 PE=3 SV=2,GLLHSYFEDVER,43.02,UL26
+P16764,UL29,Uncharacterized protein UL29 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL29 PE=3 SV=1,DLGLSASMLR,49.29,UL29
+P16764,UL29,Uncharacterized protein UL29 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL29 PE=3 SV=1,VGLALLIDDFR,62.71,UL29
+P16764,UL29,Uncharacterized protein UL29 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL29 PE=3 SV=1,SSLYEANPELR,34.82,UL29
+P16848,UL31,Uncharacterized protein UL31 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL31 PE=3 SV=2,TAEQEVAAADPETGNER,29.28,UL31
+P16848,UL31,Uncharacterized protein UL31 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL31 PE=3 SV=2,HMDPEQDYR,21.5,UL31
+P08318,UL32,Large structural phosphoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL32 PE=1 SV=1,DVVALVNFLR,63.71,UL32
+P08318,UL32,Large structural phosphoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL32 PE=1 SV=1,DAADEVWALR,49.88,UL32
+P08318,UL32,Large structural phosphoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL32 PE=1 SV=1,SGTGPQPGSAGMGGAK,21.51,UL32
+P16812,UL34,Transcriptional regulator UL34 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL34 PE=3 SV=2,DNVAGSISK,21.7,UL34
+P16812,UL34,Transcriptional regulator UL34 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL34 PE=3 SV=2,EPPTPADELQTAVSR,42.9,UL34
+P16812,UL34,Transcriptional regulator UL34 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL34 PE=3 SV=2,AEPSVSNDDGNGGER,20.03,UL34
+P16766,UL35,Protein UL35 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL35 PE=1 SV=1,TQLDVLYSDPLK,51.01,UL35
+P16766,UL35,Protein UL35 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL35 PE=1 SV=1,EGELFFFSK,54.85,UL35
+P16766,UL35,Protein UL35 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL35 PE=1 SV=1,ITTETYHLQR,25.47,UL35
+P16767,UL36,Uncharacterized protein UL36 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL36 PE=3 SV=1,SALGPFVGK,36.44,UL36
+P16767,UL36,Uncharacterized protein UL36 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL36 PE=3 SV=1,GDVESLSAEVTK,35.45,UL36
+P16767,UL36,Uncharacterized protein UL36 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL36 PE=3 SV=1,NVMTHEEAESR,18.47,UL36
+P16778,UL37,UL37 immediate early glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL37 PE=1 SV=2,LEDPLPPWLR,57.99,UL37
+P16778,UL37,UL37 immediate early glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL37 PE=1 SV=2,QHGVIDGENSETER,20.61,UL37
+P16778,UL37,UL37 immediate early glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL37 PE=1 SV=2,TPEVNPIDAEGLSGLAR,50.85,UL37
+P16779,UL38,Apoptosis inhibitor UL38 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL38 PE=3 SV=1,ISWLER,37.38,UL38
+P16779,UL38,Apoptosis inhibitor UL38 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL38 PE=3 SV=1,QLVLFMTPK,50.16,UL38
+P16779,UL38,Apoptosis inhibitor UL38 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL38 PE=3 SV=1,IPMTFVDR,39.83,UL38
+P16781,UL43,Tegument protein UL43 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL43 PE=3 SV=2,SASLSFLDWPDGSVTEGVR,61.62,UL43
+P16781,UL43,Tegument protein UL43 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL43 PE=3 SV=2,FLLPVGTVSR,48.71,UL43
+P16781,UL43,Tegument protein UL43 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL43 PE=3 SV=2,VYVYSPVVESLYLVSR,63.09,UL43
+P16790,UL44,DNA polymerase processivity factor OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL44 PE=1 SV=1,LSEPPTLALR,40.21,UL44
+P16790,UL44,DNA polymerase processivity factor OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL44 PE=1 SV=1,IVTEHDTLLYVASR,39.98,UL44
+P16790,UL44,DNA polymerase processivity factor OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL44 PE=1 SV=1,NGLFAVENFLTEEPFQR,64.51,UL44
+P16784,UL47,Inner tegument protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL47 PE=3 SV=2,DASGLMFPIISTR,61.75,UL47
+P16784,UL47,Inner tegument protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL47 PE=3 SV=2,VTLALEQAQR,33.78,UL47
+P16784,UL47,Inner tegument protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL47 PE=3 SV=2,EFLEAPWESAPQPPR,53.51,UL47
+P16785,UL48,Large tegument protein deneddylase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL48 PE=3 SV=1,YQQLVDEVEQELK,53.46,UL48
+P16785,UL48,Large tegument protein deneddylase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL48 PE=3 SV=1,FNQDLLSALQQLSK,62.58,UL48
+P16785,UL48,Large tegument protein deneddylase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL48 PE=3 SV=1,IDTQQELTAADR,30.85,UL48
+P16793,UL52,Packaging protein UL32 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL52 PE=3 SV=1,LDALSTASER,28.75,UL52
+P16793,UL52,Packaging protein UL32 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL52 PE=3 SV=1,VTNEAVLFGR,38.08,UL52
+P16793,UL52,Packaging protein UL32 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL52 PE=3 SV=1,LVDPTYVIDK,42.5,UL52
+P08546,UL54,DNA polymerase catalytic subunit OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL54 PE=1 SV=2,EVIASVGELVPEPR,50.97,UL54
+P08546,UL54,DNA polymerase catalytic subunit OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL54 PE=1 SV=2,IGEYLLEQGFPVYEVR,61.62,UL54
+P08546,UL54,DNA polymerase catalytic subunit OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL54 PE=1 SV=2,GLTPQALVAR,37.68,UL54
+P16749,UL69,mRNA export factor ICP27 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL69 PE=1 SV=1,VAASASVPLNPHYGK,30.45,UL69
+P16749,UL69,mRNA export factor ICP27 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL69 PE=1 SV=1,ALQVTGTPQFFDQFDTNNAMGTYR,60.66,UL69
+P16749,UL69,mRNA export factor ICP27 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL69 PE=1 SV=1,TDPATLTAYDK,32.47,UL69
+P16823,UL71,Tegument protein UL51 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL71 PE=1 SV=2,ELQAFLDENFK,51.4,UL71
+P16823,UL71,Tegument protein UL51 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL71 PE=1 SV=2,ILEALDILILK,65.37,UL71
+P16823,UL71,Tegument protein UL51 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL71 PE=1 SV=2,ESAPQETLPTNHER,23.78,UL71
+P16753,UL80,Capsid scaffolding protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL80 PE=1 SV=1,SDSYGLLGNSVDALYIR,60.05,UL80
+P16753,UL80,Capsid scaffolding protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL80 PE=1 SV=1,HFADYVDPHYPGWGR,41.57,UL80
+P16753,UL80,Capsid scaffolding protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL80 PE=1 SV=1,DSPGGMDEPPSGWER,39.61,UL80
+P06726,UL82,Protein pp71 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL82 PE=1 SV=2,LITNVEGGSLEAGR,36.74,UL82
+P06726,UL82,Protein pp71 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL82 PE=1 SV=2,LLVDLNNFGPR,53.34,UL82
+P06726,UL82,Protein pp71 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL82 PE=1 SV=2,TAADISSTLR,29.95,UL82
+P06725,UL83,65 kDa phosphoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL83 PE=1 SV=2,GDTPVLPHETR,24.98,UL83
+P06725,UL83,65 kDa phosphoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL83 PE=1 SV=2,GPQYSEHPTFTSQYR,30.06,UL83
+P06725,UL83,65 kDa phosphoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL83 PE=1 SV=2,IFAELEGVWQPAAQPK,56.4,UL83
+P16727,UL84,Protein UL84 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL84 PE=1 SV=1,YSGSPQTILTLTDK,45.9,UL84
+P16727,UL84,Protein UL84 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL84 PE=1 SV=1,SVIDQQLTR,31.49,UL84
+P16727,UL84,Protein UL84 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL84 PE=1 SV=1,SGAADEGLEVR,26.99,UL84
+P16731,UL88,Protein UL88 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL88 PE=3 SV=1,HVIWPGTSVLWAPDVVITTVQR,63.13,UL88
+P16731,UL88,Protein UL88 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL88 PE=3 SV=1,VEENDLVNVVLR,51.67,UL88
+P16731,UL88,Protein UL88 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL88 PE=3 SV=1,ALLADYAETFSPLGSFTR,63.8,UL88
+P16800,UL94,Cytoplasmic envelopment protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL94 PE=1 SV=1,TAAQVTLGDGLDYHIGVK,45.78,UL94
+P16800,UL94,Cytoplasmic envelopment protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL94 PE=1 SV=1,TDVWDLVK,51.84,UL94
+P16800,UL94,Cytoplasmic envelopment protein 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL94 PE=1 SV=1,VEEPVSR,19.39,UL94
+P16788,UL97,Serine/threonine protein kinase UL97 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL97 PE=1 SV=1,VGGVDAVLEENDVELR,50.59,UL97
+P16788,UL97,Serine/threonine protein kinase UL97 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL97 PE=1 SV=1,LGQGSFGEVWPLDR,55.54,UL97
+P16788,UL97,Serine/threonine protein kinase UL97 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL97 PE=1 SV=1,AAGEQQQPPSLVGTGVHR,29.46,UL97
+P16789,UL98,Alkaline nuclease OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL98 PE=3 SV=2,HGGSDDYVWLSR,36.47,UL98
+P16789,UL98,Alkaline nuclease OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL98 PE=3 SV=2,EYLADLLYLNK,59.6,UL98
+P16789,UL98,Alkaline nuclease OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL98 PE=3 SV=2,HAVSTVLDR,22.59,UL98
+P09721,US12,Uncharacterized protein HVLF6 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US12 PE=3 SV=1,SVQHFLWMVR,#N/A,US12
+P09721,US12,Uncharacterized protein HVLF6 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US12 PE=3 SV=1,VTAPYLR,29.79,US12
+P09721,US12,Uncharacterized protein HVLF6 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US12 PE=3 SV=1,TAHWLFHK,25.09,US12
+P09722,US22,Early nuclear protein HWLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US22 PE=3 SV=2,TLSMLQGLYLR,56.51,US22
+P09722,US22,Early nuclear protein HWLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US22 PE=3 SV=2,TEVEPLLMLGSIEGLR,65,US22
+P09722,US22,Early nuclear protein HWLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US22 PE=3 SV=2,WHGALGTITR,29.71,US22
+P09701,US23,Tegument protein US23 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US23 PE=3 SV=2,WEDGAPTFTR,37.01,US23
+P09701,US23,Tegument protein US23 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US23 PE=3 SV=2,TEAEVSEAEVEAR,29.33,US23
+P09701,US23,Tegument protein US23 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US23 PE=3 SV=2,INLNTDLSPEWVK,51.86,US23
+P09709,US34,Protein US34 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US34 PE=3 SV=1,ILPVGSMYR,38.69,US34
+P09729,US9,Unique short US9 glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US9 PE=3 SV=1,LSWSSDESSASSSSR,29.78,US9
+P09729,US9,Unique short US9 glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US9 PE=3 SV=1,YETELPQVDAR,37.04,US9
+P09729,US9,Unique short US9 glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US9 PE=3 SV=1,VTPSDLER,26.25,US9
+Q9Y4I1,MYO5A,Unconventional myosin-Va OS=Homo sapiens OX=9606 GN=MYO5A PE=1 SV=2,LTNLEGIYNSETEK,41.2,sp|Q9Y4I1|MYO5A_HUMAN
+O43852,CALU,Calumenin OS=Homo sapiens OX=9606 GN=CALU PE=1 SV=2,DIVVQETMEDIDK,49.19,sp|O43852|CALU_HUMAN
+O43852,CALU,Calumenin OS=Homo sapiens OX=9606 GN=CALU PE=1 SV=2,DWILPSDYDHAEAEAR,47.86,sp|O43852|CALU_HUMAN
+Q71U36,TUBA1A,Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1,TIGGGDDSFNTFFSETGAGK,54.77,sp|Q71U36|TBA1A_HUMAN
+Q71U36,TUBA1A,Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1,IHFPLATYAPVISAEK,51.52,sp|Q71U36|TBA1A_HUMAN
+P16808,,Protein IRL10 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,VATNC[+57]LVK,23.77,sp|P16808|IR10_HCMVA
+P16808,,Protein IRL10 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,NNTGTEVDQC[+57]LAYR,33.53,sp|P16808|IR10_HCMVA
+P09710,,Uncharacterized protein HKLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,QPVVTLLLAR,51.57,sp|P09710|IR01_HCMVA
+P09710,,Uncharacterized protein HKLF1 OS=Human cytomegalovirus (strain AD169) OX=10360 PE=3 SV=1,DGLADWNVVR,49.52,sp|P09710|IR01_HCMVA
+P16799,CVC1,Capsid vertex component 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=CVC1 PE=3 SV=1,SAPKPQELLFGPR,39.63,CVC1
+P16799,CVC1,Capsid vertex component 1 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=CVC1 PE=3 SV=1,VTLHGLAQR,24.4,CVC1
+P16726,CVC2,Capsid vertex component 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=CVC2 PE=3 SV=1,LLEDAAVTMR,38.48,CVC2
+P16726,CVC2,Capsid vertex component 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=CVC2 PE=3 SV=1,GVIQHLPGYGTITEELVQER,#N/A,CVC2
+P16726,CVC2,Capsid vertex component 2 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=CVC2 PE=3 SV=1,FTLADLLGSDAVAGGGLPGGR,65.28,CVC2
+P16824,DUT,Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=DUT PE=3 SV=1,FWETPTLIMK,54.39,DUT
+P16832,gL,Envelope glycoprotein L OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gL PE=1 SV=2,ALLTLLSSDTAPR,51.5,gL
+P16832,gL,Envelope glycoprotein L OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gL PE=1 SV=2,HQLDPPLLR,32.52,gL
+P16832,gL,Envelope glycoprotein L OS=Human cytomegalovirus (strain AD169) OX=10360 GN=gL PE=1 SV=2,VNLPAHSR,19.56,gL
+P16750,GO,Glycoprotein O OS=Human cytomegalovirus (strain AD169) OX=10360 GN=GO PE=1 SV=1,QLETTISTK,25.22,GO
+P16750,GO,Glycoprotein O OS=Human cytomegalovirus (strain AD169) OX=10360 GN=GO PE=1 SV=1,SIMATQLR,30.29,GO
+P16750,GO,Glycoprotein O OS=Human cytomegalovirus (strain AD169) OX=10360 GN=GO PE=1 SV=1,TTPTSPSMGFQR,31.57,GO
+P16736,HELI,DNA replication helicase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=HELI PE=3 SV=1,HVPLADSAVSHETLER,30.11,HELI
+P16736,HELI,DNA replication helicase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=HELI PE=3 SV=1,IINYSQFVDHNLSSEITK,49.31,HELI
+Q7M6N6,SCP,Small capsomere-interacting protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=SCP PE=1 SV=1,MSSLFNDK,31.9,SCP
+P16735,UL104,Portal protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL104 PE=3 SV=2,TLFDTITVR,48.46,UL104
+P16735,UL104,Portal protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL104 PE=3 SV=2,VANAPEVR,20.83,UL104
+P16735,UL104,Portal protein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL104 PE=3 SV=2,LVTHQGAEEAIVYSNYTVER,39.84,UL104
+P16769,UL114,Uracil-DNA glycosylase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL114 PE=3 SV=1,GSLLTPDEQAR,30.88,UL114
+P16769,UL114,Uracil-DNA glycosylase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL114 PE=3 SV=1,FLSLPDHDTVLLR,49.75,UL114
+P16837,UL128,Uncharacterized protein UL128 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL128 PE=1 SV=2,GIVTTMTHSLTR,35.03,UL128
+P16837,UL128,Uncharacterized protein UL128 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL128 PE=1 SV=2,LTSC[+57]NYNPLYLEADGR,47.28,UL128
+P16837,UL128,Uncharacterized protein UL128 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL128 PE=1 SV=2,AQYLLGAAGSVPYR,45.24,UL128
+P16765,UL30,Uncharacterized protein UL30 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL30 PE=3 SV=1,VLTDPEPIQSEAEGENK,35.84,UL30
+P17146,UL4,Early glycoprotein GP48 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL4 PE=3 SV=1,TEDFLHWLLGWGHK,#N/A,UL4
+P17146,UL4,Early glycoprotein GP48 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL4 PE=3 SV=1,SIC[+57]SFFPK,42.98,UL4
+P17146,UL4,Early glycoprotein GP48 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL4 PE=3 SV=1,LQGNYNEQHYR,20.85,UL4
+P16780,UL40,Protein UL40 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL40 PE=1 SV=1,SLGVLPNDHHYALK,32.58,UL40
+P16786,UL49,Uncharacterized protein UL49 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL49 PE=3 SV=1,GGGSTAAAAAVGHAGAGQQAR,22.42,UL49
+P17149,UL70,DNA primase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL70 PE=1 SV=2,TPVLSPEHGGEVR,25.27,UL70
+P17149,UL70,DNA primase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL70 PE=1 SV=2,TAQTYTTGTLTR,27.41,UL70
+P17149,UL70,DNA primase OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL70 PE=1 SV=2,LLPLFIVPDAYR,64,UL70
+P16725,UL76,Protein UL76 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL76 PE=2 SV=1,TTYSDADDQSVR,22.85,UL76
+P16725,UL76,Protein UL76 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL76 PE=2 SV=1,GGGQVWSVVPSLVFFQQK,64.56,UL76
+P16725,UL76,Protein UL76 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL76 PE=2 SV=1,GGGAVEPAVR,21.58,UL76
+P16751,UL78,Uncharacterized protein UL78 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL78 PE=4 SV=1,DLDDSFDYLVER,60.42,UL78
+P16752,UL79,Protein UL79 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL79 PE=3 SV=1,GLETLLLR,50.87,UL79
+P16752,UL79,Protein UL79 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL79 PE=3 SV=1,ETMNNLGVSDHAVLSR,35.57,UL79
+P16730,UL87,Protein UL87 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL87 PE=3 SV=1,DFFLLELQK,62.87,UL87
+P16801,UL95,Protein UL95 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL95 PE=3 SV=1,TTEDPPENHVVADVAR,29.18,UL95
+P16801,UL95,Protein UL95 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL95 PE=3 SV=1,LIETPDENFLLVTNVIPR,64.08,UL95
+P16787,UL96,Protein UL96 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL96 PE=3 SV=2,AAVQQELQR,23.24,UL96
+P16787,UL96,Protein UL96 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL96 PE=3 SV=2,QLQSGNVDDALDSLTELK,#N/A,UL96
+P13200,UL99,Cytoplasmic envelopment protein 3 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL99 PE=1 SV=3,LC[+57]GSGC[+57]GGNDSSSGSHR,14.42,UL99
+P13200,UL99,Cytoplasmic envelopment protein 3 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL99 PE=1 SV=3,ISQRPPTPGTK,19.83,UL99
+P09720,US13,Uncharacterized protein HVLF5 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US13 PE=3 SV=1,LPWTTVFAAFR,63.51,US13
+P09719,US14,Uncharacterized protein HVLF4 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US14 PE=3 SV=2,SLEEGSTISSR,24.4,US14
+P09718,US15,Uncharacterized protein HVLF3 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US15 PE=3 SV=2,GFQVPTDGTVIYVPPGIQETR,58.76,US15
+P69334,US18,Transmembrane protein US18 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US18 PE=3 SV=1,SHALVAEQQLFQWLK,56.83,US18
+P09700,US24,Tegument protein US24 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US24 PE=3 SV=3,EPLTPLGYAVILLPEPR,66.15,US24
+P09700,US24,Tegument protein US24 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US24 PE=3 SV=3,VANTITEFFR,49.91,US24
+P09700,US24,Tegument protein US24 OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US24 PE=3 SV=3,FDPHEGAWER,29.68,US24
+P09730,US8,Unique short US8 glycoprotein OS=Human cytomegalovirus (strain AD169) OX=10360 GN=US8 PE=3 SV=2,DGVLDAVWR,53.9,US8
